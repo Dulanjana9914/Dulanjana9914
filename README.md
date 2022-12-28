@@ -5,5 +5,5 @@ I am Dulanjana Lakshan.I am a final year software engineering undergraduate at S
 - 🌱 I’m currently learning React JS, Node JS, Python, AWS and Golang.
 - 👯 I’m looking for an internship opportuity to build up my technical and soft skills.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dulanjana9914&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dulanjana9914&theme=merko)
 
