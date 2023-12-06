@@ -4,7 +4,7 @@ I am Dulanjana Lakshan.I am a final year software engineering undergraduate at S
 
 - 👯 Currently working as an Associate Software Engineer (Familiar with MERN Stack, PHP, Laravel, MySQL, Next JS).
 - 🌱 I’m currently learning React JS, Node JS, Python, AWS and Golang.
-- 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dulanjana9914&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulanjana9914&layout=compact)
