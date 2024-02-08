@@ -1,6 +1,6 @@
 Hello Everyone 👋,
 
-I am Dulanjana Lakshan.I am a fresh graduate from Sri Lanka Institute of Information Technology (SLIIT). I am confident about my strong foundation in computer science principles, combined with my ability to learn quickly and work well in a team, make me an ideal charactor for IT field. I have industry level experiences about ERP systems' customizations and configurations.Mainly I have interacted with MERN stack project for my academic works.
+I am Dulanjana Lakshan.I am a fresh graduate from Sri Lanka Institute of Information Technology (SLIIT). I am confident about my strong foundation in computer science principles, combined with my ability to learn quickly and work well in a team, make me an ideal charactor for IT field. I have industry level experiences about ERP systems' customizations and configurations.Mainly I have interacted with MERN stack project in my academic works.
 
 - 👯 Currently working as an Associate Software Engineer (Familiar with Node JS,React JS,Mongo DB,Express JS, PHP, Laravel, MySQL and Next JS).
 - 🌱 I’m following Angular, .Net , Python, AWS and Golang for level up my skills.
