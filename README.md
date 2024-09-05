@@ -4,7 +4,7 @@ I am Dulanjana Lakshan.I am a fresh graduate from the Sri Lanka Institute of Inf
 of work experience in the software engineering industry.
 
 - 👯 Currently working as an Associate Software Engineer (Familiar with Node JS, React JS, Mongo DB, Express JS, PHP, Laravel, MySQL and Next JS).
-- 🌱 I’m following Angular, .Net, Python, AWS and Golang to level up my skills.
+- 🌱 I’m following .Net, Python, AWS and Golang to level up my skills.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dulanjana9914&theme=merko)
 
